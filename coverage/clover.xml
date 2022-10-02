@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664753589810" clover="3.2.0">
+  <project timestamp="1664753589811" name="All files">
+    <metrics statements="49" coveredstatements="47" conditionals="9" coveredconditionals="9" methods="6" coveredmethods="5" elements="64" coveredelements="61" complexity="0" loc="49" ncloc="49" packages="2" files="2" classes="2"/>
+    <package name="services">
+      <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="CreateUserService.ts" path="/home/hericke47/lessons/unit-tests/src/services/CreateUserService.ts">
+        <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="tests.fakes">
+      <metrics statements="28" coveredstatements="26" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="3"/>
+      <file name="FakeUserRepository.ts" path="/home/hericke47/lessons/unit-tests/src/tests/fakes/FakeUserRepository.ts">
+        <metrics statements="28" coveredstatements="26" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
